@@ -1,3 +1,6 @@
+mod tests;
+
+
 pub trait MyFloatTrait
 {
     fn my_powi(&self, n: i32) -> Self;
