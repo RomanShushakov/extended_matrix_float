@@ -1,0 +1,13 @@
+[package]
+name = "extended_matrix_float"
+version = "1.0.0"
+authors = ["Roman Shushakov <roman.a.shushakov1@gmail.com>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Float trait for extended_matrix lib."
+readme = "README.md"
+repository = "https://github.com/RomanShushakov/extended_matrix_float"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
